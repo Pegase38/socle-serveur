@@ -8,7 +8,3 @@ export const attributes = {
             required: true
     }
 }
-
-export const maFunction = () => {
-    
-}

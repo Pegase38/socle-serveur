@@ -9,5 +9,3 @@ exports.attributes = {
         required: true
     }
 };
-exports.maFunction = function () {
-};

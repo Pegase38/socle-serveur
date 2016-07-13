@@ -1,7 +1,3 @@
-const controller = {
-    hello(req,res): string {
-        return res.send("Hi there coucou!");
-    }
+export function index(req,res): string {
+        return res.send("index");
 }
-
-export = controller;

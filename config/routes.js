@@ -45,8 +45,5 @@ module.exports.routes = {
   * for configuration options and examples.                                  *
   *                                                                          *
   ***************************************************************************/
-  'get /hello': {
-    controller :'user',
-    action:'hello'
-  }
+  
 };

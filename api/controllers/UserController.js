@@ -1,7 +1,5 @@
 "use strict";
-var controller = {
-    hello: function (req, res) {
-        return res.send("Hi there coucou!");
-    }
-};
-module.exports = controller;
+function index(req, res) {
+    return res.send("index");
+}
+exports.index = index;

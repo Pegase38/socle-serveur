@@ -8,4 +8,3 @@ export declare const attributes: {
         required: boolean;
     };
 };
-export declare const maFunction: () => void;

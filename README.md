@@ -1,8 +1,6 @@
-# socle-serveur-tmp
-
-a [Sails](http://sailsjs.org) application
+# rest-serveur
 
 ```bash
-grunt ts:dev
+grunt
 sails lift
 ```
