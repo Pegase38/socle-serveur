@@ -80,6 +80,7 @@ bower_components
 ################################################
 .tmp
 dump.rdb
+.gitkeep
 
 
 
@@ -116,3 +117,11 @@ npm-debug.log
 nbproject
 .idea
 .node_history
+
+################################################
+# Typescript
+# 
+################################################
+.tscache
+typings
+.baseDir*
